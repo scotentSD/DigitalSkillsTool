@@ -1,14 +1,12 @@
 # Digital Skills Tool
 
-This work will create prototyped forms to support courses to **improve refugees’ IT skills and enhance their independency**. It could be a crucial tool to [tackle digital isolation](https://www.bbc.co.uk/news/uk-england-cornwall-50812576). The classes will also have other members of the community. Having learners from different backgrounds will help integrating refugees within the local community.
+This is the code for a website to support classes to help refugees and other participants to improve their digital skills by training on prototyped forms of exisiting services.
 
+This is a work in progress.
 
-This course will be developed by **East Renfrewshire Council** in collaboration with **Scottish Enterprise** who will provide the tool. We also worked in partnership with ESOL & Adult Learning services, local Job centre and Bank of Scotland to organise the course. 
+The course is developed by **East Renfrewshire Council** in collaboration with **Scottish Enterprise** who provides the tool to support it.
 
 This is using the [**GOV.UK Prototype kit**](https://govuk-prototype-kit.herokuapp.com/docs)
-
-_**Digital isolation: The vulnerable people left behind**_
-_"Digital isolation is when people find themselves in a position where they can't access the internet or digital media and devices as much as other people", explains Bibi Reisdorf, an assistant professor in communication studies at the University of North Carolina at Charlotte. "In theory, everyone can access the internet, maybe at a library, community centre or at a friend's house, but there are different levels of access." Digital isolation is "surprisingly prevalent", according to Dr Reisdorf, with western countries seeing a rise in "mobile dependence". That doesn't mean people who are addicted to their mobile phones, it's when your mobile is your only access to the internet_
 
 ![East Renfrewshire Council Logo](/app/assets/images/ERC/erclogo.png)  ![Scottish Enterprise Logo](/app/assets/images/logoSE.png) 
 
@@ -45,19 +43,48 @@ This file is key to introduce logic and validation to the forms. It is shared by
 ## Examples of template page
 
 ### A GOV.UK page - desktop view
+<br><br>
+
 ![screenshot of a GOV.UK page - desktop view](/app/assets/images/document-the-tool/screen-desktop-govuk.png)
 
+<br><hr>
+
 ### A GOV.UK page - mobile view
+<br><br>
+
 ![screenshot of a GOV.UK page - mobileview](/app/assets/images/document-the-tool/screen-mobile-govuk.png)
 
+<br><hr>
+
 ### A basic council form
+<br><br>
+
 ![screenshot of a council page](/app/assets/images/document-the-tool/screen-council.png)
 
+<br><hr>
+
 ### A basic Scottish Government page
+<br><br>
+
 ![screenshotof a Scottish Government page](/app/assets/images/document-the-tool/screen-sg.png)
 
+<br><hr>
+
 ### A basic Social Security page - desktop view
+<br><br>
+
 ![screenshot of Social Security - desktop vie](/app/assets/images/document-the-tool/screen-desktop-sss.png)
 
+<br><hr>
+
 ### A basic Social Security page - mobile view
-![screenshot of Social Security - mobile view](/app/assets/images/document-the-tool/screen-mobile-sss.png)
+<br><br>
+
+![screenshot of applying for a provisional licence](/app/assets/images/document-the-tool/screen-DVLA-1.png)
+
+<br><hr>
+
+### The start page for: Apply for a provisional driving licence
+<br><br>
+
+![screenshot of applying for a provisional licence - start page](/app/assets/images/document-the-tool/screen-DVLA-2.png)
