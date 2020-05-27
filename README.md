@@ -1,24 +1,23 @@
 # Digital Skills Tool
 
-This is the code for a website to support classes to help refugees and other participants to improve their digital skills by training on prototyped forms of exisiting services.
-
-This is a work in progress.
-
-**There is about 1 in 7 people in Scotland who can’t get online** (that’s about 800,000 people)
-
-The course is developed by **East Renfrewshire Council** in collaboration with **Scottish Enterprise** who provides the tool to support it.
-
-This is using the [**GOV.UK Prototype kit**](https://govuk-prototype-kit.herokuapp.com/docs)
+<p><strong><span style="background-color: #B30000; color: #ffffff"; padding: 10px 25px>Update 27/05/20</span> Project stopped in this repository but still going on in the <a href="https://github.com/stephanie-K/DigitalSkillsTool">original one</a></strong></p>
 
 You can visit the website here: [**https://erc-tool.herokuapp.com/**](https://erc-tool.herokuapp.com/) you will be asked for a username and password, both are: erc-tool
 
 You can also [**learn more about the project in this blog post**](https://blog.chezleskrus.com/2020/05/06/improving-digital-skills-building-a-tool-with-the-govuk-prototype-kit)
 
 
+This is the code for a website to support classes to help refugees and other participants to improve their digital skills by training on prototyped forms of exisiting services.
 
-![East Renfrewshire Council Logo](/app/assets/images/ERC/erclogo.png)  ![Scottish Enterprise Logo](/app/assets/images/logoSE.png) 
 
 
+**There is about 1 in 7 people in Scotland who can’t get online** (that’s about 800,000 people)
+
+The course is developed for **East Renfrewshire Council**.
+
+This is using the [**GOV.UK Prototype kit**](https://govuk-prototype-kit.herokuapp.com/docs)
+
+![East Renfrewshire Council Logo](/app/assets/images/ERC/erclogo.png) 
 
 ## How we are using the tool
 
