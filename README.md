@@ -1,6 +1,6 @@
 # Digital Skills Tool
 
-<p><strong><span style="background-color: #B30000; color: #ffffff"; padding: 10px 25px>Update 27/05/20</span> Project stopped in this repository but still going on in the <a href="https://github.com/stephanie-K/DigitalSkillsTool">original one</a></strong></p>
+## Update 27/05/20: Project stopped in this repository but still going on in the [original one](https://github.com/stephanie-K/DigitalSkillsTool)
 
 You can visit the website here: [**https://erc-tool.herokuapp.com/**](https://erc-tool.herokuapp.com/) you will be asked for a username and password, both are: erc-tool
 
